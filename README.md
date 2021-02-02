@@ -13,6 +13,6 @@ test de récupérer le projet distant done
 copier depot distant sur machine
 
 
-test pour voi rle point
+test pour voi rle point et pui
 
 
