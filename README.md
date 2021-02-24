@@ -13,6 +13,6 @@ test de récupérer le projet distant done
 copier depot distant sur machine
 
 
-test pour voi rle point et pui
+test pour voi rle point et puis suis-je à jour sur git sur ma machine ?
 
 
